@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jitendra Bansal
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+
 
 - 👨🏻‍💻 I’m currently working on **Full Stack Development** and **Freelance Projects**
 - ✍🏻 I’m currently learning **UX/UI Design Principles** and improving my **Front-end Development** skills
