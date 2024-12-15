@@ -33,7 +33,7 @@
 ---
 
 
-[GitHub Snake Animation](https://github.com/Jbansal2/Jbansal2/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
