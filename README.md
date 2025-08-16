@@ -35,6 +35,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
+
+[![An image of @jbansal2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jbansal2)](https://holopin.io/@jbansal2)
+
 ## 🔥 GitHub Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jbansal2&theme=dark&card_width=500)](https://git.io/streak-stats)
