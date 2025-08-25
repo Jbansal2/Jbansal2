@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Jitendra Bansal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbansal2&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
-
+  <img src="https://res.cloudinary.com/dezt3uhp4/image/upload/v1734628841/Blue_And_Green_Professional_Technology_LinkedIn_Banner_op3f6c.jpg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
