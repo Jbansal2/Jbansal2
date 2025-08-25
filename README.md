@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Jitendra Bansal
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dezt3uhp4/image/upload/v1734628841/Blue_And_Green_Professional_Technology_LinkedIn_Banner_op3f6c.jpg" alt="Banner" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbansal2&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
@@ -83,7 +84,7 @@
 ## 🔥 GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbansal2&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbansal2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -133,15 +134,5 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=Google-Drive&logoColor=white)](https://your-resume-link.com)
 
-**✨ Let's build something amazing together! ✨**
-
-![Profile Views](https://komarev.com/ghpvc/?username=jbansal2&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 </div>
 
