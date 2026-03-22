@@ -1,10 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Jitendra Bansal
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dezt3uhp4/image/upload/v1734628841/Blue_And_Green_Professional_Technology_LinkedIn_Banner_op3f6c.jpg" alt="Banner" width="100%" />
-</div>
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Freelancer+%26+UX%2FUI+Enthusiast+%F0%9F%8E%A8;Building+Amazing+Web+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -80,14 +76,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbansal2&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jbansal2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
