@@ -15,9 +15,8 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbansal2&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jbansal2&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Jbansal2&theme=radical)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jbansal2&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity" />
