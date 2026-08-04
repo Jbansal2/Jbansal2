@@ -23,5 +23,11 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jbansal2&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
