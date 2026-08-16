@@ -24,8 +24,7 @@
 
 ---
 ## 🏆 GitHub Trophies
-![GitHub Trophy](https://git-trophy-generator.vercel.app/trophy?username=jbansal2&theme=flat&column=6)
-
+![GitHub trophies for @jbansal2](https://git-trophy-generator.vercel.app/trophy?username=jbansal2&theme=cyberpunk&hide_rank=true)
 ---
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
