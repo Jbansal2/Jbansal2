@@ -1,6 +1,5 @@
 # Hi there, I'm Jitendra Bansal 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Freelancer+%26+UX%2FUI+Enthusiast+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/jbansal2)](https://ghfind.com/u/jbansal2?ref=badge)
 
 ---
 
