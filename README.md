@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Always+Shipping+Something;Let's+Build+Together!&font=Fira%20Code&center=true&width=440&height=45&color=F8D866&vCenter=true&pause=1000&size=22" />
 
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/jbansal2)](https://ghfind.com/u/jbansal2?ref=badge)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/jbansal2?variant=radar&theme=dark)](https://ghfind.com/u/jbansal2?ref=badge)
 
 [![Gmail](https://img.shields.io/badge/-jitendrabansal023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jitendrabansal023@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Jbansal2?label=Follow&style=social)](https://github.com/Jbansal2)
